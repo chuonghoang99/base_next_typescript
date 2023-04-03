@@ -1,0 +1,247 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "rememberPassword": "Remember Password",
+  "forgetPassword": "Forgot Password?",
+  "status": "Status",
+  "account_info": "Account info",
+  "loginContent": {
+    "content_1": "Viettel Group's 8th subsidiary, focusing on the areas of digital finance, data services, and e-commerce.",
+    "content_2": "The establishment of the company is to lay the foundation for the digital transformation process, completing the puzzle of the Viettel Group's strategy of 'Creating a digital society."
+  },
+  "error500": "Oops, something went wrong!",
+  "message": {
+    "success": "Success",
+    "fail": "Fail",
+    "error": "An error occurred",
+    "delete_data_success": "Delete data success",
+    "delete_data_failed": "Delete data failed",
+    "emptyField": "{{field}} cannot be empty",
+    "validateFormat": "Wrong format or exceed limited characters of {{field}} . Please check again",
+    "msg-error-not-special": "Wrong format or exceed limited characters of {{label}}. Please check again.",
+    "confirmDelete": "Do you want to delete this data?"
+  },
+  "channel-status": {
+    "REGISTER_APPROVED": "Register approved",
+    "REGISTER_PENDING_APPROVAL": "Register pending approval",
+    "REGISTER_REJECTED": "Register rejected",
+    "REGISTER_REVIEWED": "Register reviewed",
+    "UPDATE_PENDING_APPROVAL": "Update pending approval",
+    "UPDATE_REJECTED": "Update rejected",
+    "UPDATE_REVIEWED": "Update reviewd",
+    "UPDATE_APPROVED": "Update approved"
+  },
+  "label": {
+    "mail": "Mail",
+    "update": "Update",
+    "register": "Register",
+    "pending-approval": "Pending Approval",
+    "resolved": "Resolved",
+    "rejected": "Rejected",
+    "channel-state": "Channel State",
+    "channel-type": "Channel Type",
+    "channel-manager-type": "Channel Manager Type",
+    "channel-manager-name": "Channel Manager Name",
+    "channel-name-id-phone": "Channel Name/ID/Phone Number",
+    "include-sub-channel": "Include Sub-Channel",
+    "id-type": "ID Type",
+    "id-number": "ID number",
+    "tax-code": "Tax code",
+    "business-license": "Bussiness license",
+    "contract-no": "Contract no",
+    "confirm-register-internal-agent-channel": "Confirmation: Register {{channelTier}} Channel for {{name}}, phone number: {{phone}}?",
+    "confirm-register-internal-agent-channel-not-file": "Confirmation: You still not provided Agentcy Contract yet. Continue to register {{channelTier}} for {{name}}, phone number: {{phone}}?",
+    "reason": "Reason",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "phoneNumber": "Phone number"
+  },
+  "form": {
+    "autocomplete": {
+      "placeholder": "Select {{label}}",
+      "no_options": "No options"
+    },
+    "input": {
+      "placeholder": "Enter {{label}}"
+    }
+  },
+  "btn": {
+    "save_change": "Save changes",
+    "add": "Add",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "saveConfig": "Save configuration",
+    "back": "Back",
+    "search": "Search",
+    "export": "Export",
+    "agree": "Agree"
+  },
+  "option": {
+    "ALL": "ALL"
+  },
+  "table": {
+    "no_data": "No data found!",
+    "paginationNumber": "Number of rows displayed per page",
+    "jumpToPage": "Jump to page",
+    "no": "No",
+    "no_exist_page": "Page does not exist"
+  },
+  "menu": {
+    "uaa": {
+      "channel_management": "Channel Management",
+      "update_approve_request": "Update - Approve Request",
+      "register_create_request": "Register - Create Request",
+      "register_approve_request": "Register - Approve Request",
+      "permission_config": "Group permission for subsystem",
+      "user_account": "Create accounts for employees",
+      "create_system": "Create system",
+      "api": "API management",
+      "service": "Service",
+      "feature": "Feature",
+      "funding_management": "Funding Management",
+      "approve_clear_debit": "Approve Request Clear Debit for Channel",
+      "report": "Report",
+      "report_channel": "Report Channel",
+      "report_total_debit": "Report Total Debit",
+      "report_detail_debit": "Report Detail Debit",
+      "channel": "Channel",
+      "overview": "Overview",
+      "register_channel": "Register Channel",
+      "create_request": "Create Request",
+      "approve_request": "Approve Request",
+      "update_channel": "Update Channel",
+      "manage_sys_user": "Manage Sys User"
+    },
+    "merchant": {
+      "HO_account": "List of Merchant root accounts",
+      "approve_merchant": "Approve Merchant",
+      "update_merchant": "List Merchant",
+      "transaction": "Transaction",
+      "business_sectors": "Business Sectors",
+      "channel": "Channel",
+      "report": "Report viewed by HO",
+      "sub_merchant": "Sub Merchant",
+      "employ_staff": "Employ Staff",
+      "order_management": "Order management",
+      "invoice_management": "Invoice management",
+      "merchant_report": "Report viewed by merchant staff",
+      "submerchant_report": "Merchant views report of Submerchant",
+      "rights_group": "Subsystem permission group",
+      "rights_group_two": "Subsystem permission group two",
+      "staff_of_submerchant_report": "Report of sub merchant staff",
+      "withdrawal_transaction_history": "Withdrawal transaction history"
+    },
+    "customer": {
+      "country": "Country management",
+      "city": "Province/City management",
+      "district": "District management",
+      "ward": "Ward management",
+      "customer_group": "Customer group management",
+      "customer": "Customer management",
+      "product_group": "Product group management",
+      "product": "Product management",
+      "service_group": "Service group management",
+      "service": "Service management",
+      "synthesis_report": "Point accumulation and consumption report"
+    },
+    "loyalty": {
+      "member_rank_manager": {
+        "title": "Member rank management",
+        "rank_member": "Member rank management",
+        "group_benefit_of_rank_member": "Permission group for member rank benefits",
+        "benefit_of_rank_member": "Member rank benefits"
+      },
+      "reward_points_manager": {
+        "title": "Reward points management",
+        "points_policy_configs": "Reward points policy configuration",
+        "approve_points_policy_configs": "Approve reward points policy configuration",
+        "extra_points_by_rank_member": "Calculation of reward points based on member rank"
+      },
+      "parameter_manager": {
+        "title": "Parameter management",
+        "group_unit": "Unit group management",
+        "unit": "Unit management",
+        "currency": "Currency management",
+        "exchange_rate_update": "Exchange rate update",
+        "language": "Language"
+      }
+    },
+    "promotion": {
+      "campage": "Manage promotion programs",
+      "loyalty": "Loyalty promotion program",
+      "voucher": "Track voucher usage status",
+      "approve": "Approve",
+      "approveCampage": "Approve public promotion program",
+      "approveLoyalty": "Approve loyalty promotion program"
+    }
+  },
+  "validation": {
+    "enter": "Please enter {{msg}}",
+    "password_required": "Password is required",
+    "password_min": "Password must be at least 6 characters",
+    "password_false": "Incorrect password",
+    "email": "Email is not in the correct format",
+    "email_unique": "Email already exists",
+    "mobile_required": "Mobile phone number is required",
+    "mobile": "Mobile phone number is not in the correct format",
+    "required": "This field is required",
+    "username": "Username must be 6-15 characters and cannot contain special characters",
+    "confirm": "Passwords do not match",
+    "min": "Minimum of {{number}} characters",
+    "max": "Maximum of {{number}} characters",
+    "alias": "You can only enter letters without accents, numbers, and the characters '-' and '_'",
+    "code": "You can only enter numbers, letters without accents, no spaces, and the characters '-', '_', and '.'",
+    "password": "Password must be at least 8 characters long, contain at least one uppercase letter, one lowercase letter, one number, and one special character",
+    "phone": "Phone number is in the wrong format",
+    "not_type": "Wrong format",
+    "invalid": "Invalid",
+    "not_number": "You can only enter numbers",
+    "not_contract_number": "You can only enter letters, numbers, and '-', '/' characters",
+    "url": "URL is not in the correct format",
+    "confirm_password": "Passwords do not match",
+    "number_min": "Cannot be less than {{min}}",
+    "number_max": "Cannot be greater than {{max}}",
+    "cannotLessThanOrEqual": "Cannot be less than or equal to {{min}}",
+    "cannotGreaterThanOrEqual": "Cannot be greater than or equal to {{max}}",
+    "more_than": "Value must be greater than {{more}}",
+    "name": "Name must not contain special characters",
+    "requiredField": "Required field",
+    "integer": "Only positive integers allowed"
+  },
+  "footer": {
+    "label": "Copyright © 2021. Website copyright belongs to Mosan"
+  },
+  "bizzapp": {
+    "label": "Switch system"
+  },
+  "forgotpassword": {
+    "label": "Forgot Password?",
+    "text": "Please enter your email or phone number to recover your password.",
+    "recovery": "Recover Password"
+  },
+  "changepassword": {
+    "label": "Enter OTP code",
+    "text": "The OTP code has been sent to your email/phone number. Please enter it to recover your password.",
+    "recovery": "Recover Password",
+    "input": {
+      "new": "New Password",
+      "re_enter": "Confirm New Password"
+    },
+    "success": "Password changed successfully"
+  },
+  "countdown": {
+    "label": "OTP code validity: {{count}}s"
+  },
+  "rules": {
+    "required": "This field is required",
+    "validate": "New password does not match"
+  },
+  "mail": {
+    "label": "Email address",
+    "placeholder": "You can log in with email, phone number or username"
+  },
+  "password": {
+    "label": "Password",
+    "placeholder": "Enter password"
+  }
+}
